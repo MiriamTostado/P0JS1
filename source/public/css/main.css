@@ -1,0 +1,16 @@
+#seccion{
+    width: 1200px;
+    height: 1000px;
+    background-color: rgb(231, 204, 167);
+    max-width: 0 auto;
+}
+img{
+    display: block;
+    border: 1px solid rgb(174, 209, 151);
+    margin-left: auto;
+    margin-right: 4px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+
+}
